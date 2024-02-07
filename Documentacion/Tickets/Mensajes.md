@@ -13,16 +13,21 @@ Hola buen día, favor de anexar el visto bueno donde se muestre la autorización
 
 Saludos
 
+## Falta VoBo Comercial
 
-## Posiciones Compensadas	
+Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, por lo cual se puede solicitar con ellos la cancelación, o en dado caso de que no les aparezcan los folios para su cancelación o tengan algún problema, favor de anexar la evidencia.
+En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
 
-Estimado usuario    
+En caso de que se pueda realizar la cancelación de forma correcta por pare de gerencia y comercial, favor de notificar para mandar a VoBo el ticket para su cierre.
 
-Favor de acercarse con el equipo de costos, ya que el folio que nos comparte cuenta con una recepción de factura que genero un cargo al proveedor, si quiere cancelar el folio debería solicitar la cancelación de la RE-L al equipo de costos y posterior validar nuevamente la cancelación en su app.   
+Saludos
 
- 
+## Falta VoBo Comercial
 
-Saludos  
+Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, 
+En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
+
+Saludos
 
 ## Faltan agunos con aprovacion GR y otros de CO
 
@@ -34,9 +39,9 @@ Saludos
 ## Falta aprovacion Comercial
 
 Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, por lo cual se puede solicitar con ellos la cancelación, o en dado caso de que no les aparezcan los folios para su cancelación o tengan algún problema, favor de anexar la evidencia.
-En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercia, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
+En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
 
-En caso de que se pueda realizar la cancelación de forma correcta por pare de gerencia y comercian, favor de notificar para mandar a VoBo el ticket para su cierre.
+En caso de que se pueda realizar la cancelación de forma correcta por pare del área comercial, favor de notificar para mandar a VoBo el ticket para su cierre.
 
 Saludos
 
@@ -46,6 +51,17 @@ Hola buen día, favor de anexar las pantallas de error que les están apareciend
 En caso que se requiera realizar el cambio por parte de nosotros es necesario anexar el visto bueno por parte de Comercial para poder proceder con el cambio solicitado, favor de anexar de preferencia los correos donde se autoricen y los folios los cuales se les va a realizar el cambio.
 
 Saludos
+
+## Posiciones Compensadas	
+
+Estimado usuario    
+
+Favor de acercarse con el equipo de costos, ya que el folio que nos comparte cuenta con una recepción de factura que genero un cargo al proveedor, si quiere cancelar el folio debería solicitar la cancelación de la RE-L al equipo de costos y posterior validar nuevamente la cancelación en su app.   
+
+ 
+
+Saludos  
+
 
 
 ## Estatus Rejected
@@ -58,15 +74,13 @@ Hola buen día, favor de anexar imágenes o capturas de pantalla donde se muestr
 
 Saludos
 
-## Falta VoBo Comercial
+## Siniestro sin VoBo
 
-Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, por lo cual se puede solicitar con ellos la cancelación, o en dado caso de que no les aparezcan los folios para su cancelación o tengan algún problema, favor de anexar la evidencia.
-En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
+Hola buen día,
+Solo se pueden eliminar embarques en el caso de siniestro y esto acompañado de su notificación por el área de riesgos, favor de contactar con el cedis para conocer el estatus del embarque.
+Es necesario que para realizar a cabo su eliminación se anexe el VoBo del área de Riesgos para proceder con la solicitud.
 
-En caso de que se pueda realizar la cancelación de forma correcta por pare de gerencia y comercial, favor de notificar para mandar a VoBo el ticket para su cierre.
-
-Saludos
-
+Gracias, saludos
 
 ## Bloqueo a la compra
 
@@ -77,3 +91,12 @@ El mensaje que regresa el sistema no es un error, es una validación ya que un m
 
 Estimado usuario, 
 El mensaje que regresa el sistema no es un error, es una validación ya que un material con status de Bloqueo Total no es válido para generar movimientos en la APP (Ajustes, Mermas, Transferencias, etc.) Se revisa en el sistema y se detecta que el material está en status BT para su tienda, cambio realizado por el área de compras.
+
+
+##  
+
+Buen día,
+El embarque tenia una incidencia con el material 11110302, le pedimos que reciba el embarque a detalle y que este articulo lo reciba como sobrante 
+Saludos.
+
+![](./img/estatus.png)

@@ -32,3 +32,31 @@ Pedido: 2106655236
 Guia: 2218156
 
 Error: Cons.: Salida de mercancía p.posición pedidos 2106655236 00001 no contab.todavía
+
+
+
+
+
+COntactos SAP
+
+GENTE DE SAP PARA ENVIARLES CORREOS SAP
+ 
+t_alejandroroc@soriana.com
+t_rogelior@soriana.com
+t_josers@soriana.com
+t_davidmam@soriana.com
+
+
+Hola Compañeros de SAP
+ 
+De su apoyo para quitar el marcado de la posición de borrado
+ 
+Pedido 2106846687
+
+Posición 44,45
+ 
+Y con el estado bloqueo de compra.
+ 
+Saludos Cordiales.
+
+DAG

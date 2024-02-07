@@ -1,11 +1,30 @@
 # ERROR EN DESCARGA DE TARIMAS
 
-**Titulo:** CEDIS 5647 GUIA 13505 EMBARQUE 13814 ERROR EN DESCARGA DE TARIMAS
+**Titulo:** problemas con embarque
 
-**Descripcion:** Buena tarde
+**Descripcion:** Se solicta de su apoyo ya que se tiene problemas para dar arrobo al siguiente embarque:
 
-De su apoyo para el embarque 13814, guía 13505 dado que esta marcando error.
-434378 Para el pedido 2106672422 00032 no es posible efectuar una EM, Para el pedido 2103372422 00033 no es posible efectuar una EM
+cedis: 5647
+embarque: 13913
+transferencia en error: 437067
+error: Cons.: Salida de mercancia p. Posicion pedidos 2106605087 00002 no contab.todavia 
 
-434404 Para el pedido 2106589013 00023 no es posible efectuar una EM, Para el pedido  2106589013 00024 no es posible efectuar una EM, Cons.: Salida de mercancía, p.posición pedidos 2106639689 00009 no contab.todavía
 
+
+
+
+
+Hola buen dia pido de su apoyo para con los siguientes casos del problema de códigos de Kit,  ¿Me pueden apoyar a corregir la incidencia? Ya que no se puede generar el Mov. 351. 
+
+| `Ticket`        | `Embarque` | `Cedis` | `Tienda` | `STO Pedido` | `KIT PADRE` | `Posicion` | `Folio Gía` | `Folio transferencia` |
+|-----------------|------------|---------|----------|--------------|-------------|------------|-------------|-----------------------|
+| INC 2024-042120 | 13913      | 5647    | 1024     | 2106672422   | 11758255    | 19         | 13596       | 437067                |
+
+
+
+
+Hola buen dia pido de su apoyo para con los siguientes casos del problema de códigos de Kit,  ¿Me pueden apoyar a corregir la incidencia? Ya que no se puede generar el Mov. 351. 
+
+| `Ticket`        | `Embarque` | `Cedis` | `Tienda` | `STO Pedido` | `KIT PADRE` | `Posicion` | `Folio Gía` | `Folio transferencia` |
+|-----------------|------------|---------|----------|--------------|-------------|------------|-------------|-----------------------|
+| INC 2024-036464 | 15921      | 5645    | 1031     | 2106751438   | 11702756    | 17         | 15340       | 666492                |
