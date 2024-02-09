@@ -37,7 +37,9 @@ Y se revisa tambien el monitor de embarques
 
 ![texto_alternativo](./img/EliminarEmbarqueSinVoBo4.png)
 
-Si el MySql se encuentran esas columnas vacias y en el monitor de embarques no se muestra informacion, se procede hacer el borrado del embarque con el siguiente procedimiento
+Si el MySql se encuentran esas columnas vacias y en el monitor de embarques no se muestra informacion, se procede hacer el borrado del embarque con el siguiente procedimiento.
+
+NOTA: Solo se puede hacer el borrado de cancelacion si viene con el VoBo del area de Riesgos, sin este no se puede ralizar o ver el caso con alguien que sepa del caso
 
     CALL borrarEmbarqueParaTienda(,);
 

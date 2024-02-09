@@ -84,8 +84,8 @@ Gracias, saludos
 
 ## Bloqueo a la compra
 
-Estimado usuario, 
-El mensaje que regresa el sistema no es un error, es una validación ya que un material con status de Bloqueo a la Compra no es válido para generar movimientos en la APP (Ajustes, Mermas, Transferencias, etc.) Se revisa en el sistema y se detecta que el material está en status BT para su tienda, cambio realizado por el área de compras.
+    Estimado usuario, 
+    El mensaje que regresa el sistema no es un error, es una validación ya que un material con status de Bloqueo a la Compra no es válido para generar movimientos en la APP (Ajustes, Mermas, Transferencias, etc.) Se revisa en el sistema y se detecta que el material está en status BT para su tienda, cambio realizado por el área de compras.
 
 ## Bloqueo total
 
@@ -100,3 +100,12 @@ El embarque tenia una incidencia con el material 11110302, le pedimos que reciba
 Saludos.
 
 ![](./img/estatus.png)
+
+
+
+    Estimado usuario,
+    ‌
+    ‌El folio cuenta con movimiento fiscal en sistema, será necesario favor acercarse con el área de costos y solicitar la cancelación, para posteriormente generar las correcciones pertinentes.
+    ‌
+    ‌Saludos
+ 

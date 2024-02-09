@@ -73,4 +73,27 @@ Otra consulta a realizar es en MySql con el siguiente script, solo se necesita l
 ![](./img/inventarioExcedido6.png)
 
 
+Otra cosa que se revisa en SAP es si cuenta con stock minimo de seguridad en la parte de **Visualizar material** y en la parte de **Logistica de tienda**
+
+
+![](./img/inventarioExcedido8.png)
+
+![](./img/inventarioExcedido9.png)
+
+Se revisa si tiene este campo con algun valor, lo cual impidiria que quieran ralizar algun movimiento si se excede la cantidad que se tienen que mantener como minimo en la tienda
+
+![](./img/inventarioExcedido7.png)
+
+En este caso se envia a VoBo con el siguiente mensaje, cambiando claro la cantidad de piesas a las correspondientes
+
+
+    Hola
+    
+    El error presentado no es un mensaje de error, es un mensaje de advertencia de que tiene un stock minino de seguridad de 3 piezas y si realiza la  
+    transferencia de estas se quedaría debajo del umbral permitido, si ocupa una aclaración o cambio tendría que revisarlo con el comprador
+    para que le revise el stock de seguridad.
+    
+    Saludos.
+
+
 

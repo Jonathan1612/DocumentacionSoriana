@@ -1,3 +1,100 @@
+# Cantidad excedido en CJ
+
+**Título:**
+EL EMBARQUE :163775 NO PERMITE DAR ARRIBO , MANDA ERROR DE TRANSFERENCIA A LA HORA DE DAR ARRIBO
+
+**Descripción:**
+EL EMBARQUE :163775 NO PERMITE DAR ARRIBO , MANDA ERROR DE  TRANSFERENCIA A LA HORA DE DAR ARRIBO
+NUMERO DE GUIA:216857
+CEDIS; 5581
+
+![](./img/capacidadEmbarque.png)
+
+Para este caso se comienza con el analisis en MySql consultando el embarque para ver su estatus y el error que contiene, en este caso es el siguiente 
+
+![](./img/capacidadEmbarque2.png)
+
+**Scriopt:**
+
+    CALL consultarEmbarque(163775);
+
+**Json:**
+
+    {
+        "error": "CO Cantidad tomada excedido en 48.000 CJ : 11326145 0135 0001",
+        "matDoc": null,
+        "status": "PENDING",
+        "transferNumber": "3401350"
+    }
+
+
+Una ves tengamos esto, lo que nos interesa del JSON es el numero del material, que para este caso es el ***11326145***, el cual vamos a utilizar en el monitor de embarques para filtar por el Material
+
+![](./img/capacidadEmbarque3.png)
+
+
+![](./img/capacidadEmbarque4.png)
+
+Una ves filtrado, lo que nos interesa es la parte de los siguientes campos
+
+![](./img/capacidadEmbarque5.png)
+
+**Cantidad:** 48
+**Capacidad de empaque:** 3
+
+Con estos datos aplicamos la formula de Cantidad / capacidad de empaque
+
+48 / 3 = 16
+
+Este dato no servira mas adelante, regresamos a MySql y realizamos las siguentes consultas
+
+    call consultarCacheDeMaterialesSapParaTienda(0135,11326145);
+  
+![](./img/capacidadEmbarque6.png)  
+
+Aqui los datos que nos importan son los marcados, abrimos el json y el campo ***Unit_BASE_UOM*** que en este caso viene como PZA
+
+    call consultarMaterialEnEmbarque(163775,11326145); 
+
+![](./img/capacidadEmbarque8.png) 
+
+De aqui los datos que importan solo los ***ID*** que se utilizaran en la siguiente consulta
+
+    select * from palletsproducts where id in (135132749,135132749,135809084,135809084);
+
+Tambien se verifica en ***SAP*** el pedido para revisar la posicion y ver los movimientos y cantidades que se reciben
+
+![](./img/capacidadEmbarque9.png)
+
+Como se puede observar las cantidades que se muestran en el **Monitor de embarques** y **SAP** son diferentes, por lo cual es necesario pedir el apoyo de Cedis para que revisen el pedido de su lado y verificar si cuenta con algun error.
+
+Se envian las evidencias del **Monitor de embarques** y **SAP** con los siguientes datos para su atencion.
+
+**Error:** CO Cantidad tomada excedido en 48.000 CJ : 11326145 0135 0001
+
+| `Ticket`        | `Embarque` | `Cedis` | `Sucursal` | `STO Pedido` | `Material` | `Transferencia` | `Folio Gía` | `Folio transferencia` |
+|-----------------|------------|---------|----------|--------------|--------------|-----------------|-------------|-----------------------|
+| INC 2024-044698 | 163775      | 5681    | 135     | 2107134548   | 11326145     | 3401350         | 216857      | 3401350               |
+
+El recibo fue creado exitosamente con número 4911424057
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Embarques excedidos por n piezas
  
 FORMULA
