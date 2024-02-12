@@ -38,12 +38,12 @@ Saludos
 
 ## Falta aprovacion Comercial
 
-Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, por lo cual se puede solicitar con ellos la cancelación, o en dado caso de que no les aparezcan los folios para su cancelación o tengan algún problema, favor de anexar la evidencia.
-En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
+    Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, por lo cual se puede solicitar con ellos la cancelación, o en dado caso de que no les aparezcan los folios para su cancelación o tengan algún problema, favor de anexar la evidencia.
+    En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
 
-En caso de que se pueda realizar la cancelación de forma correcta por pare del área comercial, favor de notificar para mandar a VoBo el ticket para su cierre.
+    En caso de que se pueda realizar la cancelación de forma correcta por pare del área comercial, favor de notificar para mandar a VoBo el ticket para su cierre.
 
-Saludos
+    Saludos
 
 ## Falta aprovacion Comercial y da un error
 
@@ -51,6 +51,13 @@ Hola buen día, favor de anexar las pantallas de error que les están apareciend
 En caso que se requiera realizar el cambio por parte de nosotros es necesario anexar el visto bueno por parte de Comercial para poder proceder con el cambio solicitado, favor de anexar de preferencia los correos donde se autoricen y los folios los cuales se les va a realizar el cambio.
 
 Saludos
+
+
+## No se muestras los folios, solo el VoBo
+
+Hola buen día, favor anexar el VoBo y que en ella se muestren los folios a cambiar de estatus, ya que se necesitan visualizar para poder comprobar que el cambio es para los folios que solicitan. En la imagen actual se muestra que fue autorizado pero no se muestran los folios.
+
+Gracias, saludos
 
 ## Posiciones Compensadas	
 
@@ -76,11 +83,19 @@ Saludos
 
 ## Siniestro sin VoBo
 
-Hola buen día,
-Solo se pueden eliminar embarques en el caso de siniestro y esto acompañado de su notificación por el área de riesgos, favor de contactar con el cedis para conocer el estatus del embarque.
-Es necesario que para realizar a cabo su eliminación se anexe el VoBo del área de Riesgos para proceder con la solicitud.
+    Hola buen día,
+    Solo se pueden eliminar embarques en el caso de siniestro y esto acompañado de su notificación por el área de riesgos, favor de contactar con el cedis para conocer el estatus del embarque.
+    Es necesario que para realizar a cabo su eliminación se anexe el VoBo del área de Riesgos para proceder con la solicitud.
 
-Gracias, saludos
+    Gracias, saludos
+
+
+    Hola buen día,
+    Es necesario que para realizar a cabo su eliminación se anexe el VoBo del área de Riesgos para proceder con la solicitud, ya que sin esta no se puede proceder con el borrado. En el VoBo se debe de mostrar el embarque que se desea borrar y el visto bueno para que se verifique que el embarque que se solicita borrar sea el correcto.
+    Se pueden anexar los correos, pdf o imágenes donde esto sea visible
+    
+    Gracias, saludos
+
 
 ## Bloqueo a la compra
 
@@ -108,4 +123,15 @@ Saludos.
     ‌El folio cuenta con movimiento fiscal en sistema, será necesario favor acercarse con el área de costos y solicitar la cancelación, para posteriormente generar las correcciones pertinentes.
     ‌
     ‌Saludos
+
+
+## No mpliado para este centro
+
+    Buena tarde estimado usuario 
+
+    Favor de validar con su equipo de compras, ya que, para realizar una transferencia entre tiendas, los materiales tienen que estar extendidos y activos en ambos centros.  
+
+    No es posible realizar una transferencia a un centro que no tenga dado de alta el material.  
+
+    Saludos  
  

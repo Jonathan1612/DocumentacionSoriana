@@ -2,16 +2,38 @@
 |-----------|------------------|------------|
 | INC 2024-006186 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
 | INC 2024-039474 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-038786 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2023-315873 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-008284 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-008487 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-019655 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-027076 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-030733 | <span style="color:yellow">**Media**</span> | Pregunta a Valeria |
-| INC 2024-030745 | <span style="color:yellow">**Media**</span> | Pregunta a Valeria |
-| INC 2024-031144 | <span style="color:yellow">**Media**</span> | Pregunta a Valeria |
-| INC 2023-326914 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span> |
+| INC 2024-036765 | <span style="color:orange">**Alta**</span> | Se envia a SAP |
+| INC 2024-040542 | <span style="color:red">**Critica**</span> | Se envia a Cedis |
+| INC 2024-040356 | <span style="color:yellow">**Media**</span>  | Se mando correo a Daniel |
+| INC 2024-051564 | <span style="color:red">**Critica**</span> | Se envia a Daniel, preguntar a las 3 |
+| INC 2024-012299 | <span style="color:red">**Critica**</span> | Se envia a Cedis |
+| INC 2024-052239 | <span style="color:red">**Critica**</span> | Se envio a SAP |
+| INC 2024-047357 | <span style="color:red">**Critica**</span> | Se envio a Caludia BT |
+| INC 2023-489211 | <span style="color:orange">**Alta**</span> | Pregunar a Valeria y Daniel ya que si generaron movimientos las transferencias |
+| INC 2024-045891 | <span style="color:yellow">**Media**</span>  | Se envio a Cedis, problema lo esta revisando Claudia |
+| INC 2024-044361 | <span style="color:orange">**Alta**</span> | Accion de Usuario  |
+| INC 2024-022544 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
+| INC 2024-022588 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
+| INC 2024-022853 | <span style="color:orange">**Alta**</span> | Pregunta |
+| INC 2023-489299 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
+| INC 2023-489886 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
+| INC 2023-472243 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
+| INC 2024-044361 | <span style="color:orange">**Alta**</span> | Casi se soluciona solo regresar a en proceso |
+| INC 2024-045906 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
+| INC 2023-490591 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
+| INC 2023-491102 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
+| INC 2023-491114 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |

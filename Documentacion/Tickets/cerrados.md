@@ -1,20 +1,17 @@
 | Ticket ID | Prioridad | Estatus     |
 |-----------|------------------|------------|
-| INC 2023-326914 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span> |
-| INC 2023-327504 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span> |
-| INC 2023-336295 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span> |
-| INC 2023-337003 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span> |
-| INC 2024-025028 | <span style="color:yellow">**Media**</span> | <span style="color:green">**VoBo**</span> |
-| INC 2024-047357 | <span style="color:red">**Critica**</span> | <span style="color:green">**VoBo**</span> |
-| INC 2024-047343 | <span style="color:red">**Critica**</span> | <span style="color:green">**VoBo**</span> |
-| INC 2024-046690 | <span style="color:red">**Critica**</span> | <span style="color:green">**VoBo**</span> |
+| INC 2024-038786 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-315873 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-008284 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-008487 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-019655 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-027076 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  |  |  |
-|  |  |  |
+
 
 <details>
   <summary>Estaus</summary>
@@ -42,8 +39,12 @@
   
   | Prioridad | Descripción                                   |
   |-----------|-----------------------------------------------------------------|
-  | <span style="color:red">**Critica**</span>       | Tickets de mayo importancia y con los cuales contamos con poco tiempo para atender|
-  | <span style="color:orange">**Alta**</span>       | Tickets que son importantes pero pueden esperar si hay demaciados Criticos |
-  | <span style="color:yellow">**Media**</span>       | Tickets con importancia pero suelen poder esperar dias |
-  | <span style="color:blue">**Baja**</span>       | Tikects de menor importancia y que por lo regular se antienden al final |
+  | <span style="color:red">**Critica**</span> | Tickets de mayo importancia y con los cuales contamos con poco tiempo para atender|
+  | <span style="color:orange">**Alta**</span> | Tickets que son importantes pero pueden esperar si hay demaciados Criticos |
+  | <span style="color:yellow">**Media**</span> | Tickets con importancia pero suelen poder esperar dias |
+  | <span style="color:blue">**Baja**</span> | Tikects de menor importancia y que por lo regular se antienden al final |
 </details>
+
+
+
+folios viejos y vobo de comercial pendiente usar el curl de rechazo, igual para stock insuficiente

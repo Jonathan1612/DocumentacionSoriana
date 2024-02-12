@@ -41,7 +41,7 @@ COntactos SAP
 
 GENTE DE SAP PARA ENVIARLES CORREOS SAP
  
-t_alejandroroc@soriana.com
+t_alejandroroc@soriana.com 
 t_rogelior@soriana.com
 t_josers@soriana.com
 t_davidmam@soriana.com

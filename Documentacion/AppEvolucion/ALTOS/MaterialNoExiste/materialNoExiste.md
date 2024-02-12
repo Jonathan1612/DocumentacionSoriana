@@ -23,11 +23,10 @@ Solicito tu apoyo para autorizar la siguiente extensión de material.
 
 | `Ticket`        | `Fecha`    | `Material` | `Centro` | `Almacen` |
 |-----------------|------------|------------|----------|-----------|
-| INC 2024-044698 | 08/02/2024 | 11719541   | 953      | 0005      |
+| INC 2024-036765 | 10/02/2024 | 11719541   | 953      | 0005      |
 
 Hola buen dia, me pueden apoyar con este embarque, ya que no aparece en el monitor
 
-| `Ticket`        | `Cedis`    | `Embarque` | `Guía` | `Sucursal` |
-|-----------------|------------|------------|----------|-----------|
-| INC 2024-040542 | 5548 | Embarque   | 2218944      | 182      |
+
+
 
