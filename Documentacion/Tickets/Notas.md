@@ -60,3 +60,19 @@ Y con el estado bloqueo de compra.
 Saludos Cordiales.
 
 DAG
+
+
+Inventarios mensuales en Agoste, problemas con 702 en el almacen 6, ir reportando conforme van salendo a Claudia
+
+
+### Comando para entrar al ssh
+
+    ssh -i "./jonathancm.txt" jonathancm@20.115.93.16
+
+
+    curl --location -g --request POST 'http://172.14.3.58:8000/graphql' \
+    --header 'Content-Type: application/json' \
+    --data-raw '{"query":"  mutation TruckStartOffloading($shipmentLocationId: ID!) {\n    truckStartOffloading(shipmentLocationId: $shipme6tLocationId) {\n      isSuccess\n    }\n  }","variables":{"shipmentLocationId":"2097145"}}'
+
+
+la factura s eguarda en purchaseorders por el numero de factura

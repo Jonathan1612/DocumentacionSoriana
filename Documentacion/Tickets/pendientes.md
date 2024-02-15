@@ -1,44 +1,53 @@
-| Ticket ID | Prioridad | Estatus     |
-|-----------|------------------|------------|
-| INC 2024-006186 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-039474 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-036765 | <span style="color:orange">**Alta**</span> | Se envia a SAP |
-| INC 2024-040542 | <span style="color:red">**Critica**</span> | Se envia a Cedis |
-| INC 2024-040356 | <span style="color:yellow">**Media**</span>  | Se mando correo a Daniel |
-| INC 2024-051564 | <span style="color:red">**Critica**</span> | Se envia a Daniel, preguntar a las 3 |
-| INC 2024-012299 | <span style="color:red">**Critica**</span> | Se envia a Cedis |
-| INC 2024-052239 | <span style="color:red">**Critica**</span> | Se envio a SAP |
-| INC 2024-047357 | <span style="color:red">**Critica**</span> | Se envio a Caludia BT |
-| INC 2023-489211 | <span style="color:orange">**Alta**</span> | Pregunar a Valeria y Daniel ya que si generaron movimientos las transferencias |
-| INC 2024-045891 | <span style="color:yellow">**Media**</span>  | Se envio a Cedis, problema lo esta revisando Claudia |
-| INC 2024-044361 | <span style="color:orange">**Alta**</span> | Accion de Usuario  |
-| INC 2024-022544 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
-| INC 2024-022588 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
-| INC 2024-022853 | <span style="color:orange">**Alta**</span> | Pregunta |
-| INC 2023-489299 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
-| INC 2023-489886 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
-| INC 2023-472243 | <span style="color:yellow">**Media**</span> | Accion de Usuario |
-| INC 2024-044361 | <span style="color:orange">**Alta**</span> | Casi se soluciona solo regresar a en proceso |
-| INC 2024-045906 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
-| INC 2023-490591 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
-| INC 2023-491102 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
-| INC 2023-491114 | <span style="color:orange">**Alta**</span> | Accion de Usuario |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Ticket ID | Prioridad | Estatus     | Descripcion |
+|-----------|------------------|------------|---------|
+| INC 2024-006186 | <span style="color:yellow">**Media**</span> | Volver a mandar con el SP a comercial ya que Daniel no los rechaza si estan pendientes de aprovacion |  |
+| INC 2024-039474 | <span style="color:yellow">**Media**</span> | Accion de Usuario |  |
+| INC 2024-036765 | <span style="color:orange">**Alta**</span> | Se envia a SAP |  |
+| INC 2024-040542 | <span style="color:red">**Critica**</span> | Se envia a Cedis |  |
+| INC 2024-040356 | <span style="color:yellow">**Media**</span> | Se mando correo a Daniel |  |
+| INC 2024-051564 | <span style="color:red">**Critica**</span> | Se envia a Daniel, preguntar a las 3 |  
+| INC 2024-012299 | <span style="color:red">**Critica**</span> | Se envia a Cedis |  |
+| INC 2024-052239 | <span style="color:red">**Critica**</span> | Se envio a SAP |  |
+| INC 2024-047357 | <span style="color:red">**Critica**</span> | Se envio a Caludia BT |  |
+| INC 2023-489211 | <span style="color:orange">**Alta**</span> | Pregunar a Valeria y Daniel ya que si generaron movimientos las transferencias |  |
+| INC 2024-045891 | <span style="color:yellow">**Media**</span>  | Se envio a Cedis, problema lo esta revisando Claudia |  |
+| INC 2024-022544 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2024-022588 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  
+| INC 2024-022853 | <span style="color:orange">**Alta**</span> | Pregunta |  |
+| INC 2023-489299 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-489886 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-472243 | <span style="color:yellow">**Media**</span> | Accion de Usuario |  |
+| INC 2024-044361 | <span style="color:orange">**Alta**</span> | Casi se soluciona solo regresar a en proceso |  |
+| INC 2024-045906 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-490591 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-491114 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-491869 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-492127 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-492218 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-492939 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-493006 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-495357 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-498354 | <span style="color:orange">**Alta**</span> | 35 folios, pedir ayuda a Holman para verificar |  |
+| INC 2023-498388 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-498412 | <span style="color:orange">**Alta**</span> | Se envio a Daniel |  |
+| INC 2023-498629 | <span style="color:orange">**Alta**</span> | Accion de Usuario  temas de usuarios |  |
+| INC 2023-498932 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-499217 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-489005 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-487889 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  |
+| INC 2023-484357 | <span style="color:orange">**Alta**</span> | Accion de Usuario |  nos podría compartir el numero de la remisión para continuar con la atención de la incidencia. |
+| INC 2023-483673 | <span style="color:orange">**Alta**</span> | Accion de Usuario | Hola buen día, podrí anexarnos imagen del error una descripción mas detallada de este, embarque, transferencia o folios que tengan el problema. |
+| INC 2023-477433 | <span style="color:orange">**Alta**</span> | Accion de Usuario | Hola buen día, aun persiste el error? |
+| INC 2024-057477 | <span style="color:red">**Critica**</span> | Accion de Usuario |  |
+| INC 2023-475254 | <span style="color:orange">**Alta**</span> | Accion de Usuario | Hola buen día, favor de indicarnos si el incidente continua? |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 
 <details>

@@ -65,5 +65,12 @@ Este CSV se envia arturorf@soriana.com gerente regional que se obtiene de la mis
 
 NOTA: No agregar ningun dato mas que el CSV.
 
+Asusto: Transferencias pendientes por autorizar 14
 
 ![](./img/TransferenciaEntreTiendasPorAutorizar4.png)
+
+Despues se manda a visto buendo indicando que fue eviado al correo
+
+    Hola buen día, se realizo nuevamente el reenvió del correo para su aprobación o cancelación del las transferencias a la parte regional al correo lazaromir@soriana.com
+
+    Gracias, saludos
