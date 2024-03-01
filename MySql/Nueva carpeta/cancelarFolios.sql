@@ -1,0 +1,2 @@
+-- CANCELAR FOLIOS
+-- call cancelarSetDeCargosDeDevolucion("", "");

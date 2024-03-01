@@ -1,49 +1,85 @@
+## Ya estaban en el estatus solicitado
+
+    Hola buen día, los folios que nos compartió ya se encuentran en el estatus solicitado, favor de validar
+    ‌
+    ‌Gracias, saludos
+
+## Se realizo el cambio de estatus
+
+    ‌Hola buen día, se realizo el cambio de estatus solicitado, favor de validar
+    ‌
+    ‌Gracias, saludos
+
+## Devoluciones en estatus 
+
+    Hola buen día, el folio que nos comparte esta en estatus 
+    FOLIO_EXPIRED
+    Por lo cual no se puede realizar esta acción, de ser requerida favor de anexar el VoBo por parte del área comercial y procederemos a verificar si procede para realizar el cambio solicitado.
+        ‌
+    ‌Gracias, saludos
+
+
 ## Falta VoBo y No hay aprovacion GR ni CO	
 
     Hola buen día, para realizar la cancelación aun se encuentran pendientes de aprobación de parte de gerencia así que ellos mismos podrían realizar la cancelación, favor de comunicarse con ellos.
-    En caso de que tengan algún erro que impida el hacerlo, favor de adjuntarlo para tener mayor información del tema y si es necesario realizar la cancelación necesitamos el VoBo para proceder con ella, ya sea los correos como evidencia o una imagen donde se muestren los folios en el correo y que se autoriza.
+    También se puede indicar al área comercial si ven los folios que los cancelen o rechacen ellos.
+    En caso de que tengan algún erro que impida el hacerlo, favor de adjuntarlo para tener mayor información del tema y si es necesario realizar la cancelación necesitamos el VoBo para proceder con ella, ya sea los correos como evidencia o una imagen donde se muestren los folios en el correo y que se autoriza, así como el estatus al que se desea cambiar.
 
     En caso que gerencia realice la cancelación favor de comunicarlo para enviar ticket a VoBo.
 
-    Saludos
+    En este caso si se tiene el error que se comenta al intentar cancelar, favor de anexar el pdf de cargos por devolución para una revisión mas detallada del caso.
+
+    Gracias, saludos
 
 ## Tiene los dos VoBo pero esta pendiente de datos	
 
     Hola buen día, favor de anexar el visto bueno donde se muestre la autorización por la parte comercial y los folios que se desea aplicar el cambio de estatus, ya sea el correo o una captura donde se muestren los datos solicitados.
 
-    Saludos
+    Gracias, saludos
 
 ## Falta VoBo Comercial
 
-    Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, por lo cual se puede solicitar con ellos la cancelación, o en dado caso de que no les aparezcan los folios para su cancelación o tengan algún problema, favor de anexar la evidencia.
-    En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
+    Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, por lo cual se puede solicitar con ellos la cancelación o rechazo, o en dado caso de que no les aparezcan los folios para su cancelación o tengan algún problema, favor de anexar la evidencia.
+    En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus, con el VoBo de la app no procede, es necesario que sea un correo.
 
-    En caso de que se pueda realizar la cancelación de forma correcta por pare de gerencia y comercial, favor de notificar para mandar a VoBo el ticket para su cierre.
+    En caso de que se pueda realizar la cancelación de forma correcta por parte de comercial, favor de notificar para mandar a VoBo el ticket para su cierre.
 
-    Saludos
+    Gracias, saludos
 
-## Falta VoBo Comercial
+## Cambio de estatus sin VoBo
 
-    Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, 
-    En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
+    Hola buen día, para realizar el cambio que nos solicitan es necesario la aprobación por la parte comercial o comprador, esta no es la que se da con la app, seria de preferencia que se anexe un correo donde se muestren los folios que se desean cambiar, así como al estatus que se desea realizar el cambio y su autorización.
 
-    Saludos
+    Nos puede compartir los correos, pdf o imágenes donde se muestre lo mencionado anteriormente.
+
+    Una ves que nos anexe esta información se podrá proceder con el cambio de estatus.
+
+    Gracias, saludos
+
+## Visiaulizar folio para la parte comercial Devoluciones
+
+    Hola buen día, debido a que un se encuentra en un estatus de Pendiente de aprobación por parte de comercial no me permite realizar el cambio solicitado, pero se acciono el folio para que sea visible por parte del área comercial para que lo puedan autorizar, una ves autorizado si se desea aun el cambio de estatus favor de indicárnoslo y nosotros procederemos con el cambio.
+
+    En caso de continuar la incidencia igual favor de notificárnoslo y anexar pantallas.
+
+    Gracias, saludos
+
+## Folio en estatus Cancelado
+    
+    Hola buen día, el folio que nos comparte se encuentra en estatus Cancelado por lo cual ya no se podría realizar algún cambio al folio.
+
+    Además como nota adicional, cuando se solicita un cambio de estatus es necesario anexar el visto bueno por parte del área comercial o comprador, este VoBo no es el de la aplicación, es un correo donde se muestren los folios que se desean cambiar, el estatus que se desea aplicar y el visto bueno.
+
+    Gracias, saludos
+
 
 ## Faltan agunos con aprovacion GR y otros de CO
 
     Hola buen día, estos folios 11649 están pendientes de aprobación por parte de Gerencia, por lo cual ellos podrían realizar la cancelación, estos folios 11674 están pendientes de aprobación por la parte comercial así que se les puede solicitar su cancelación a ellos.
     En caso de que de algún error que impida que alguna de las partes realice la acción requerida, es necesario anexar los vistos buenos por parte de estas, de preferencia de correos donde se autorice y se muestre los folios que se les desea cambiar el estatus.
 
-    Saludos
+    Gracias, saludos
 
-## Falta aprovacion Comercial
-
-    Hola buen día, los folios que se solicitan cancelar están pendientes de aprobación por la parte comercial, por lo cual se puede solicitar con ellos la cancelación, o en dado caso de que no les aparezcan los folios para su cancelación o tengan algún problema, favor de anexar la evidencia.
-    En el caso que se requiera que nosotros realicemos la cancelación favor de anexar el visto bueno por parte de la parte comercial, de preferencia los correo donde se muestren los folios y se que aprueba su cambio de estatus.
-
-    En caso de que se pueda realizar la cancelación de forma correcta por pare del área comercial, favor de notificar para mandar a VoBo el ticket para su cierre.
-
-    Saludos
 
 ## Falta aprovacion Comercial y da un error
 
@@ -61,11 +97,13 @@
 
 ## Posiciones Compensadas	
 
-    Estimado usuario    
+    Se mandan a N3 porque no hay solucion con la descripcion N3 Posiciones Compensadas
+
+    Hola buen día 
 
     Favor de acercarse con el equipo de costos, ya que el folio que nos comparte cuenta con una recepción de factura que genero un cargo al proveedor, si quiere cancelar el folio debería solicitar la cancelación de la RE-L al equipo de costos y posterior validar nuevamente la cancelación en su app.   
 
-    Saludos  
+    Gracias, saludos 
 
 
 
@@ -94,6 +132,15 @@
     
     Gracias, saludos
 
+## Proceso de creacion
+
+    Hola buen dia, 
+    El mensaje que regresa el sistema no es un error, es una validación ya que un material con status de En proceso de creacion no es válido para generar movimientos en la APP (Ajustes, Mermas, Transferencias, etc.).
+    Para solucionar el incidente por favor diríjanse al equipo de compras y dígales que estos artículos tienen estatus de en proceso de creación por lo que impide realizar ajustes en tienda.
+
+    Para realizar las los ajustes el producto debe estar activo deben cambiarlos a estado activos.
+
+    Gracias, saludos.
 
 ## Bloqueo a la compra
 
@@ -104,8 +151,12 @@
 
 ## Bloqueo total
 
-    Estimado usuario, 
+    Hola buen día, 
     El mensaje que regresa el sistema no es un error, es una validación ya que un material con status de Bloqueo Total no es válido para generar movimientos en la APP (Ajustes, Mermas, Transferencias, etc.) Se revisa en el sistema y se detecta que el material está en status BT para su tienda, cambio realizado por el área de compras.
+
+    Favor de acercarse con el área de compras para verificar este estatus y solicitar algún cambio.
+
+    Gracias, saludos
 
 
 ##  
@@ -183,6 +234,31 @@ Saludos.
     Gracias, saludos
 
     Hola buen día, se reviso el tema y se muestra que las transferencias están en estatus Completadas, por lo cual se le pide favor de validar, en caso de que tenga aun algún tema con este incidente favor de comentarlo y anexar información sobre el tema.
+
+    Gracias, saludos
+
+## Reenvio de PDF transferencias
+
+    Hola buen día, se realizo el reenvió de los pdf de transferencias solicitados, favor de validar.
+
+    Gracias, saludos
+
+## Reenvio de autorizacion reginal
+
+    Hola buen día, se realizo el reenvió de la trasferencia para que el regional pueda visualizarla, favor de validar.
+‌
+    ‌Gracias, saludos
+
+## No se pueden cancelar las transferencias
+
+    Hola buen día, la transferencia que nos pide cancelar, no es posible realizar esta cancelación ya que recibió las aprobaciones y también se generaron ya movimiento en SAP,
+    por lo cual ya no podríamos realizar este cambio y se tendría que concluir.
+
+    Gracias, saludos
+
+## Mensaje para indicar una posible solucion a error de envio de transferencias
+
+    Hola buen día, no de momento no, seria hablar con la sucursal destino, quedar una forma de como manejar la mercancía, ya se que se envié y ellos la devuelvan posteriormente, no es lo mas optimo pero podría ser una de las soluciones que podrían tomar en cuentan para solucionar la incidencia.
 
     Gracias, saludos
 
@@ -264,9 +340,133 @@ Saludos.
     Gracias, saludos
 
 
-## Merma materia explosionar 
+## Mermas o transferencias material explosionar 
 
-    Hola buen dia,
+    Hola buen día,
     Deberá excluir el material del folio de merma para poder cerrarlo y contabilizar el resto del contenido, favor de reportar el material con su comprador para que complete los datos de este y a futuro poder ingresarlo sin más incidencia.
     
-    Saludos
+    Gracias, saludos
+
+
+## Gastos de tienda
+
+    Estimado usuario: 
+
+    El material 11239736 no se puede transferir a la cuenta de gastos. Favor de validar con su gerente o comprador la cuenta que debe seleccionar para poder continuar su proceso. 
+
+    Asimismo, si esta cuenta no esta creada, reabrir el incidente solicitando la creación de cuenta en el sistema. 
+
+    Saludos. 
+
+
+## No se encontraron datos, No se obtuvieron datos
+
+    Estimado usuario 
+
+    Para generar una nueva devolución debe hacer clic al botón de Nueva devolución y posterior escanear los productos, ya que si usa la cámara superior derecha esta se usa para escanear los folios agrupadores. 
+
+    Al momento que escanea un producto no lo detecta (porque está buscando un folio agrupador) 
+
+    Favor de validar si puede escanear los productos realizando un folio nuevo, si su incidencia persiste favor de comentarlo. 
+
+    Comparto en anexos el manual para generar una devolución. 
+
+    Saludos 
+
+
+## VoBO
+
+    Hola buen día, se manda a VoBo para el cierre del ticket ya que se indica que ya esta resuelto el incidente.
+
+    Gracias, saludos
+
+## Borrar folios de preconteos
+
+    Hola buen día, los folios que nos comentan no pueden ser borrados, pero estos no afectaran en el inventario ya que estos no serán contabilizados o afectaran en algo.
+    ‌
+    ‌Gracias, saludos
+
+
+## Material no ampliado para el centro
+
+    Hola buen día,
+
+    Favor de validar con su equipo de compras, ya que, para realizar una transferencia entre tiendas, los materiales tienen que estar extendidos y activos en ambos centros.  
+
+    No es posible realizar una transferencia a un centro que no tenga dado de alta el material.  
+
+    Gracias, saludos 
+
+
+## Material no ampliado para el centro
+
+    Hola buen día,
+
+    Favor de validar con su equipo de compras, ya que, para realizar una transferencia entre tiendas, los materiales tienen que estar extendidos y activos en ambos centros.  
+
+    No es posible realizar una transferencia a un centro que no tenga dado de alta el material, aplica lo mismo si se requiere hacer algún ajuste.  
+
+    Gracias, saludos 
+
+
+## Validar cantidades recibidas
+
+    U.C es unidad de compra
+
+    Hola buen día, este tema es una validación que se realiza para validar que las cantidades recibidas son las correctas, si lo que se ingresa U.C. 64.75 es correcto, el gerente debe de ingresar sus credenciales para dar el visto bueno, en caso contrario deben revisar los datos que se ingresaron.
+
+    Gracias, saludos
+
+
+## Cierre automatico 
+
+    Hola buen dia
+    El embarque fue cerrado de forma automatica  por lo cual a SAP solo envia los sobrantes; en el caso de la pantalla que reportas es un faltante por lo cual si ocupas algún ajuste favor de contactar a administración y costos. 
+
+    Gracias, saludos
+
+
+
+# temas lentitud
+
+    Hola buen día, el problema se pudo dar por lentitud en la app, el problema no debió afectar en el tema de inventarios, si se genero algún problema, favor de anexar evidencias y una descripción del mismo.
+
+    Gracias, saludos
+
+
+# temas lentitud 2
+
+    Hola buen día aun continua con el problema?
+    El problema se pudo dar por lentitud en la app.
+    En dado caso que continúe la incidencia, favor de anexar algunas pantalla de donde ocurre el incidente.
+
+    Gracias, saludos
+
+
+## No cuenta con Orden de SAP
+
+    Hola buen dia, este no es un error ya que se muestra que el pedido realizado es a un proveedor diferente; favor de ponerse en contacto con el comprador para que le fije un pedido de acuerdo con el proveedor que está recibiendo.
+
+    Gracias, saludos
+
+## ERROR INTERNO MATERIAL NO AMPLIADO PARA EL CENTRO
+
+Buena tarde estimado usuario
+ 
+Favor de validar con su equipo de compras, ya que, para realizar una transferencia entre tiendas, los materiales tienen que estar extendidos y activos en ambos centros.
+ 
+No es posible realizar una transferencia a un centro que no tenga dado de alta el material.
+ 
+Saludos 
+
+## Mensaje para stock insuficiente
+
+    Hola buen dia, el mensaje nos indica que el articulo a devolver esta con existencia negativa en sap por lo que tendra que hacer primero un ajuste de inventarios y posteriormente generar la captura de la devolucion
+
+    Gracias, saludos
+
+## Motivo de devolución no valido para el proveedor 0000040055 y producto 11492711. No se agregara el producto a la lista 
+
+    Hola buen día, como indica el mensaje que se muestra en la aplicación el proveedor no acepta devoluciones por este tipo de motivo, por lo cual se puede comunicar con el para gestionar el como se puede realizar la devolución o si se puede mandar por otro motivo.
+    ‌
+    ‌Gracias, saludos

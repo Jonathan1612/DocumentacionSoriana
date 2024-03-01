@@ -25,9 +25,9 @@ Cuando no se visualiza el embarque en MySql
 
 **Mensaje:**
 
-    Hola
+    Hola buen dia,
 
-    Para solucionar el incidente por favor diríjanse al equipo de compras y dígales que estos dos artículos tienen estatus de bloqueo 
+    Para solucionar el incidente por favor diríjanse al equipo de compras y dígales que estos artículos tienen estatus de bloqueo 
     total lo cual impide hacer los ajustes.
 
     Para realizar los ajustes el producto debe estar activo

@@ -6,7 +6,42 @@
 | INC 2024-008487 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
 | INC 2024-019655 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
 | INC 2024-027076 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
-|  |  |  |
+| INC 2024-006186 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-036765 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-040542 | <span style="color:red">**Critica**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-040356 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> | 
+| INC 2024-052239 | <span style="color:red">**Critica**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-047357 | <span style="color:red">**Critica**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-489211 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-045891 | <span style="color:red">**Critica**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-489299 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-044361 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-490591 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-491114 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-498388 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-050000 | <span style="color:red">**Critica**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-047426 | <span style="color:red">**Critica**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-054576 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-437056 | <span style="color:yellow">**Media**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-489005 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-057477 | <span style="color:red">**Critica**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-491869 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span> |
+| INC 2023-492127 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span> |
+| INC 2023-498412 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span> |
+| INC 2024-012299 | <span style="color:red">**Critica**</span> | <span style="color:green">**VoBo**</span |
+| INC 2023-472243 | <span style="color:yellow">**Media**</span> | <span style="color:green">**VoBo**</span |
+| INC 2024-045906 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |
+| INC 2023-492218 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |
+| INC 2023-492939 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |
+| INC 2023-493006 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |
+| INC 2023-495357 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2024-022588 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |  
+| INC 2023-498932 | <span style="color:orange">**Alta**</span> | <span style="color:red">**Cerrada**</span> |
+| INC 2023-499217 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |
+| INC 2023-487889 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |
+| INC 2024-051690 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |
+| INC 2023-448312 |  <span style="color:yellow">**Media**</span> | <span style="color:green">**VoBo**</span | Resolvio Valeria |
+| INC 2023-445743 | <span style="color:orange">**Alta**</span> | <span style="color:green">**VoBo**</span |
 |  |  |  |
 |  |  |  |
 |  |  |  |

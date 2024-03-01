@@ -21,13 +21,10 @@ En este caso se anexo la imagen del error, en caso de que no se anexe, pedir de 
 
 En este caso se procede a enviar el ticket a VoBo con el siguiente mensaje
 
-
-    Hola
-
-    Para solucionar el incidente por favor diríjanse al equipo de compras y dígales que estos 
-    artículos tienen estatus de en proceso de creación por lo que impide realizar ajustes en 
-    tienda.
+    Hola buen dia, 
+    El mensaje que regresa el sistema no es un error, es una validación ya que un material con status de En proceso de creacion no es válido para generar movimientos en la APP (Ajustes, Mermas, Transferencias, etc.).
+    Para solucionar el incidente por favor diríjanse al equipo de compras y dígales que estos artículos tienen estatus de en proceso de creación por lo que impide realizar ajustes en tienda.
 
     Para realizar las los ajustes el producto debe estar activo deben cambiarlos a estado activos.
 
-    Quedamos atentos.
+    Gracias, saludos.

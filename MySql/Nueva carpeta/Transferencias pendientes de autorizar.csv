@@ -1,0 +1,3 @@
+"Folio de Embarque","Folio de transferencia","Folio de reclamacion","Estatus Origen","Estatus Destino","Tienda origen","Codigo tienda origen","Tienda destino","Codigo tienda destino",Fecha,"Codigo de barras",Material,Descripcion,"Cantidad enviada","tiene aprobacion gerente","tiene autorizacion de regional"
+3623,457,NULL,APPROVED,PENDING_TO_START,"PIE DE LA CUESTA",556,"ACAPULCO COSTA AZUL",927,2023-12-06,212820000003,1405806,"PIERNA CERDO S/HUESO ENTERA AL VACIO",111.660,"2024-02-01 19:15:10",NULL
+3623,457,NULL,APPROVED,PENDING_TO_START,"PIE DE LA CUESTA",556,"ACAPULCO COSTA AZUL",927,2023-12-06,293990000000,309282,"PULPA BLANCA C/CUETE RDFS COMPRA KG",104.760,"2024-02-01 19:15:10",NULL
